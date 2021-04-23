@@ -8,6 +8,9 @@ This is a solution to the [Typemaster pre-launch landing page challenge on Front
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
+    - [Effort Estimation ~ 5 hours](#effort-estimation--5-hours)
+    - [Actual Effort ~ 3 hours](#actual-effort--3-hours)
+    - [Estimation Debrief](#estimation-debrief)
     - [Screenshot](#screenshot)
     - [Links](#links)
   - [My process](#my-process)
@@ -26,7 +29,22 @@ This is a solution to the [Typemaster pre-launch landing page challenge on Front
 
 Users should be able to:
 
--
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
+
+### Effort Estimation ~ 5 hours 
+I anticipate this challenge should take ~5 hours of dedicated effort. This estimate includes development and research in order to get a working product according to the challenge and the accompanying asset files for the various views (mobile, tablet, desktop). I'll be using a mobile-first design methodology.
+
+I will be doing the project with raw HTML 5 and CSS 3 there will be no use of front-end frameworks or CSS preprocessors. As of 2021, CSS preprocessors are unecessary in a greenfield project such as this. In addition, Sass is the only preprocessor I am familar with and the feature of CSS variables is included in modern CSS. I might double back to use Sass just to refresh but we shall see. 
+
+### Actual Effort ~ 3 hours
+This section will detail the actual effort I contributed to the project, number of pomodoros, date and time stamps of sessions so I can get as close as possible to estimating total deep work time.
+
+**4/23/2021**
+- (4) 25 minute pomodoros with 5 minute rest attached (2 hours total)
+
+### Estimation Debrief 
+
 
 ### Screenshot
 

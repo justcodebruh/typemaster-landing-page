@@ -43,6 +43,7 @@ This section will detail the actual effort I contributed to the project, number 
 
 **4/23/2021**
 - 10 minutes of a 25 minute Pomodoro with a five minute rest
+- (2) 25 minute Pomodoros with a five minute rest
 
 ### Estimation Debrief 
 

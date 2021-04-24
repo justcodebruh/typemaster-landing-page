@@ -14,6 +14,7 @@ This is a solution to the [Typemaster pre-launch landing page challenge on Front
     - [Screenshot](#screenshot)
     - [Links](#links)
   - [My process](#my-process)
+    - [CSS Styles needed](#css-styles-needed)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
@@ -41,7 +42,7 @@ I will be doing the project with raw HTML 5 and CSS 3 there will be no use of fr
 This section will detail the actual effort I contributed to the project, number of pomodoros, date and time stamps of sessions so I can get as close as possible to estimating total deep work time.
 
 **4/23/2021**
-- (4) 25 minute pomodoros with 5 minute rest attached (2 hours total)
+- 10 minutes of a 25 minute Pomodoro with a five minute rest
 
 ### Estimation Debrief 
 
@@ -64,6 +65,11 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+
+### CSS Styles needed
+  - Colors
+  - Typography
+  - Button Styles
 
 ### Built with
 

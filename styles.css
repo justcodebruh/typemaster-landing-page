@@ -1,0 +1,57 @@
+:root {
+    --burnt-orange: #F16718;
+    --faded-orange: #FF9B62;
+    --navy-blue: #162542;
+    --dark-grey:  #7B8BAD;
+    --light-grey: #E8EFF2;
+    --bright-white: #FFFFFF;
+    --primary-font-family: "Barlow Black";
+    --capitalization: uppercase;
+    --body-font-family: "Barlow Medium";
+    --button-border-radii: 8px;
+}
+
+h1 {
+    font-family: var(--primary-font-family);
+    font-size: 56px;
+    line-height: 56px;
+    text-transform: var(--capitalization);
+}
+
+h2 {
+    font-family: var(--primary-font-family);
+    font-size: 32px;
+    line-height: 36px;
+    text-transform: var(--capitalization);
+}
+
+h3 {
+    font-family: var(--primary-font-family);
+    font-size: 24px;
+    line-height: 28px;
+    text-transform: var(--capitalization);
+}
+
+body {
+    font-family: var(--body-font-family);
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.primary-button {
+    border-radius: var(--button-border-radii);
+    background: var(--burnt-orange);
+}
+
+.primary-button:hover {
+    background: var(--faded-orange);
+}
+
+.secondary-button {
+    border-radius: var(--button-border-radii);
+    background: var(--light-grey);
+}
+
+.secondary-button:hover {
+    background: var(--navy-blue);
+}
